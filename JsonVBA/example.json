@@ -1,0 +1,36 @@
+{
+  "trackingId": "0a72f77aba2ff8a9",
+  "payload": {
+    "instruments": [
+      {
+        "figi": "BBG000BR37X2",
+        "ticker": "PGR",
+        "isin": "US7433151039",
+        "minPriceIncrement": 0.01,
+        "lot": 1,
+        "currency": "USD",
+        "name": "Progressive"
+      },
+      {
+        "figi": "BBG000B9ZV28",
+        "ticker": "AMED",
+        "isin": "US0234361089",
+        "minPriceIncrement": 0.01,
+        "lot": 1,
+        "currency": "USD",
+        "name": "Amedisys Inc"
+      },
+      {
+        "figi": "BBG000HLJ7M4",
+        "ticker": "IDCC",
+        "isin": "US45867G1013",
+        "minPriceIncrement": 0.01,
+        "lot": 1,
+        "currency": "USD",
+        "name": "InterDigItal Inc"
+      }
+    ],
+    "total": 3
+  },
+  "status": "Ok"
+}
